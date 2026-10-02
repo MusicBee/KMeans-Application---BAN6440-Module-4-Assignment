@@ -1,4 +1,0 @@
-cluster,station_count,temperature_class,precipitation_class,temperature_range_class,cluster_description
-0,13,Warmer,Dry,Moderate temperature range,Warmer; Dry; Moderate temperature range
-1,24,Moderate,Dry,Large temperature range,Moderate; Dry; Large temperature range
-2,13,Moderate,Wet,Small temperature range,Moderate; Wet; Small temperature range
