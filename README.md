@@ -28,44 +28,6 @@ The main objectives of the project are to:
 10. Validate the implementation using automated unit tests.
 
 
-
-
-
-
-## Project Structure - This Assignment has been structured below
-Module_4_KMeans_Weather_Analysis/
-│
-│
-├── docs/
-│   ├── executive_summary.docx
-│   └── ai_disclosure.docx
-│
-├── outputs/
-│   ├── eda/
-│   ├── statistical_analysis/
-│   └── kmeans_clustering/
-│
-├── src/
-│   ├── config.py
-│   ├── data_acquisition.py
-│   ├── data_quality.py
-│   ├── weather_analysis.py
-│   ├── statistical_analysis.py
-│   └── kmeans_clustering.py
-│
-├── tests/
-│   ├── __init__.py
-│   └── test_clustering.py
-│
-├── README.md
-├── requirements.txt
-
-
-
-
-
-
-
 ## Dataset
 Source - NOAA National Centers for Environmental Information (NCEI)
 Global Historical Climatology Network – Daily (GHCN-Daily)
