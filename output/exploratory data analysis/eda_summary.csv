@@ -1,0 +1,17 @@
+metric,value
+Number of stations,50
+Number of observations,90682
+Study start,2020-01-01
+Study end,2024-12-31
+Average TMAX,26.46592980087749
+Average TMIN,12.76231025629476
+Average PRCP,1.7796150116150569
+TMAX/TMIN correlation,0.8550057228698978
+Hottest average TMAX year,2024
+Lowest average TMIN year,2022
+Wettest year,2024
+Driest year,2022
+Highest average TMAX station,RIO GRANDE VILLAGE
+Lowest average TMIN station,BRAVO
+Highest total precipitation station,TEXARKANA
+Lowest total precipitation station,RIO GRANDE VILLAGE
