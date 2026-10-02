@@ -1,4 +1,4 @@
-# Module 4 – K-Means Weather Analysis - Kayode Ogunyemi
+# Module 4 – K-Means Clustering Analysis - Kayode Ogunyemi
 
 
 
