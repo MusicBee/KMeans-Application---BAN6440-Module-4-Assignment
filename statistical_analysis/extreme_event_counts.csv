@@ -1,0 +1,6 @@
+event,variable,threshold,operator,count
+Very hot days,tmax,40,>,2290
+Cold nights,tmin,0,<,9459
+Wet days,prcp,1,>=,12093
+Heavy rainfall days,prcp,25,>=,1841
+Extreme rainfall days,prcp,50,>=,454
