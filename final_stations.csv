@@ -1,0 +1,51 @@
+selection_rank,station_id,station_name,latitude,longitude,elevation,TMAX_completeness_pct,TMIN_completeness_pct,PRCP_completeness_pct,minimum_element_completeness_pct,overall_completeness_pct,nearest_selected_station_km,selection_reason,status
+1,USC00413614,GOLDTHWAITE 1 WSW,31.4406,-98.5903,459.3,99.45,99.51,100.0,99.45,99.65,94.55931292555037,QUALIFIED station selected using deterministic geographic farthest-point sampling,QUALIFIED
+2,USW00023044,EL PASO INTL AP,31.8122,-106.3775,1202.1,100.0,99.95,100.0,99.95,99.98,232.61034398196526,QUALIFIED station selected using deterministic geographic farthest-point sampling,QUALIFIED
+3,USW00012919,BROWNSVILLE,25.9161,-97.4189,26.8,99.95,100.0,100.0,99.95,99.98,100.72719697945222,QUALIFIED station selected using deterministic geographic farthest-point sampling,QUALIFIED
+4,USC00413787,GRUVER,36.2631,-101.405,966.2,99.84,99.84,99.89,99.84,99.85,115.12707327433618,QUALIFIED station selected using deterministic geographic farthest-point sampling,QUALIFIED
+5,USC00416680,ORANGE 9 N,30.2267,-93.7389,7.0,98.08,98.03,98.47,98.03,98.19,148.3790600398234,QUALIFIED station selected using deterministic geographic farthest-point sampling,QUALIFIED
+6,USC00417624,RIO GRANDE VILLAGE,29.1853,-102.9622,566.3,99.51,99.51,99.45,99.45,99.49,120.21646776867111,QUALIFIED station selected using deterministic geographic farthest-point sampling,QUALIFIED
+7,USW00093955,PARIS,33.6333,-95.45,166.7,95.68,95.68,96.44,95.68,95.93,111.0463771015584,QUALIFIED station selected using deterministic geographic farthest-point sampling,QUALIFIED
+8,USC00417074,PLAINS,33.1869,-102.8281,1120.1,100.0,100.0,99.89,99.89,99.96,116.19180634684673,QUALIFIED station selected using deterministic geographic farthest-point sampling,QUALIFIED
+9,USW00012947,COTULLA LA SALLE CO AP,28.4586,-99.2228,143.9,99.4,99.45,99.62,99.4,99.49,100.34267764452146,QUALIFIED station selected using deterministic geographic farthest-point sampling,QUALIFIED
+10,USW00012935,PALACIOS MUNI AP,28.7247,-96.2536,3.0,99.78,99.73,99.89,99.73,99.8,144.8934331512356,QUALIFIED station selected using deterministic geographic farthest-point sampling,QUALIFIED
+11,USW00013966,WICHITA FALLS MUNI AP,33.9786,-98.493,308.8,100.0,100.0,100.0,100.0,100.0,96.75632738514815,QUALIFIED station selected using deterministic geographic farthest-point sampling,QUALIFIED
+12,USC00411596,CENTERVILLE,31.2581,-95.9744,97.5,99.84,97.65,100.0,97.65,99.16,94.96323578977858,QUALIFIED station selected using deterministic geographic farthest-point sampling,QUALIFIED
+13,USC00411974,COPE RCH,31.5333,-101.2842,755.9,95.57,95.95,95.84,95.57,95.79,98.44685122348858,QUALIFIED station selected using deterministic geographic farthest-point sampling,QUALIFIED
+14,USC00414770,KENT 8SE,31.0158,-104.1108,1402.7,99.56,99.56,99.56,99.56,99.56,140.9824469511459,QUALIFIED station selected using deterministic geographic farthest-point sampling,QUALIFIED
+15,USC00419191,TURKEY,34.3961,-100.8967,716.9,100.0,100.0,100.0,100.0,100.0,101.97233720210224,QUALIFIED station selected using deterministic geographic farthest-point sampling,QUALIFIED
+16,USC00417706,ROCKSPRINGS,30.0239,-100.2119,726.0,93.65,93.65,95.02,93.65,94.11,100.6858510089951,QUALIFIED station selected using deterministic geographic farthest-point sampling,QUALIFIED
+17,USW00053907,ARLINGTON MUNI AP,32.6583,-97.095,179.8,99.67,99.62,99.07,99.07,99.45,95.52266601807837,QUALIFIED station selected using deterministic geographic farthest-point sampling,QUALIFIED
+18,USC00410268,ANSON,32.7667,-99.89,523.3,95.79,95.79,94.91,94.91,95.49,110.13620848583376,QUALIFIED station selected using deterministic geographic farthest-point sampling,QUALIFIED
+19,USW00012979,SAN MARCOS MUNI AP,29.8908,-97.8644,182.0,98.03,98.41,96.93,96.93,97.79,107.95798185533198,QUALIFIED station selected using deterministic geographic farthest-point sampling,QUALIFIED
+20,USC00411500,CARTHAGE,32.1614,-94.3397,93.0,96.61,96.61,96.77,96.61,96.66,110.15614587624171,QUALIFIED station selected using deterministic geographic farthest-point sampling,QUALIFIED
+21,USW00012928,KINGSVILLE NAAS,27.5089,-97.8042,13.4,92.72,92.72,91.02,91.02,92.15,105.91843621641102,QUALIFIED station selected using deterministic geographic farthest-point sampling,QUALIFIED
+22,USC00413368,FRIONA,34.6397,-102.7228,1226.8,100.0,100.0,100.0,100.0,100.0,112.03052637916768,QUALIFIED station selected using deterministic geographic farthest-point sampling,QUALIFIED
+23,USW00012960,HOUSTON INTERCONTINENTAL AP,29.9844,-95.3608,27.4,100.0,100.0,100.0,100.0,100.0,92.78457101097983,QUALIFIED station selected using deterministic geographic farthest-point sampling,QUALIFIED
+24,USW00003047,MONAHANS 6 ENE,31.6219,-102.8072,830.3,99.78,99.78,99.95,99.78,99.84,140.9824469511459,QUALIFIED station selected using deterministic geographic farthest-point sampling,QUALIFIED
+25,USC00413411,GAIL,32.7744,-101.4539,771.1,83.91,82.87,81.55,81.55,82.78,95.06233743811723,QUALIFIED station selected using deterministic geographic farthest-point sampling,QUALIFIED
+26,USC00418942,TEXARKANA,33.4367,-94.0772,118.9,98.14,98.14,98.08,98.08,98.12,129.1030756183978,QUALIFIED station selected using deterministic geographic farthest-point sampling,QUALIFIED
+27,USC00416747,PAINT ROCK,31.5064,-99.9305,504.1,89.55,89.44,94.2,89.44,91.06,95.21324139771737,QUALIFIED station selected using deterministic geographic farthest-point sampling,QUALIFIED
+28,USW00053952,WACO MCGREGOR EXEC AP,31.4847,-97.3164,180.4,98.41,98.36,97.04,97.04,97.94,105.90601336549724,QUALIFIED station selected using deterministic geographic farthest-point sampling,QUALIFIED
+29,USW00003032,DRYDEN TERRELL CO AP,30.0481,-102.2128,701.0,97.32,97.37,95.51,95.51,96.73,120.21646776867111,QUALIFIED station selected using deterministic geographic farthest-point sampling,QUALIFIED
+30,USC00413225,FOLLETT,36.4328,-100.1369,844.3,99.73,99.73,99.73,99.73,99.73,115.12707327433618,QUALIFIED station selected using deterministic geographic farthest-point sampling,QUALIFIED
+31,USW00053967,GRAYSON CO AP,33.7142,-96.6736,228.3,99.51,99.62,95.46,95.46,98.19,113.58477732254407,QUALIFIED station selected using deterministic geographic farthest-point sampling,QUALIFIED
+32,USW00023047,AMARILLO,35.2333,-101.7092,1128.7,100.0,100.0,100.0,100.0,100.0,113.54929662338864,QUALIFIED station selected using deterministic geographic farthest-point sampling,QUALIFIED
+33,USC00411033,BRAVO,35.62,-103.0072,1268.0,99.12,99.12,99.4,99.12,99.22,112.03052637916768,QUALIFIED station selected using deterministic geographic farthest-point sampling,QUALIFIED
+34,USC00415954,MINEOLA,32.635,-95.4822,111.9,96.39,96.06,96.22,96.06,96.22,109.20692347550728,QUALIFIED station selected using deterministic geographic farthest-point sampling,QUALIFIED
+35,USW00093987,LUFKIN ANGELINA CO AP,31.2358,-94.7547,87.2,99.56,99.56,99.95,99.56,99.69,110.15614587624171,QUALIFIED station selected using deterministic geographic farthest-point sampling,QUALIFIED
+36,USC00419163,TRUSCOTT 3 W,33.7569,-99.8619,478.8,97.97,97.87,98.08,97.87,97.97,98.85785402338962,QUALIFIED station selected using deterministic geographic farthest-point sampling,QUALIFIED
+37,USW00093947,FREDERICKSBURG GILLESPIE CO AP,30.2433,-98.9097,516.6,94.69,94.69,90.42,90.42,93.27,101.47999595689572,QUALIFIED station selected using deterministic geographic farthest-point sampling,QUALIFIED
+38,USC00410012,ABERNATHY,33.8411,-101.8508,1023.8,100.0,100.0,100.0,100.0,100.0,98.77837254340655,QUALIFIED station selected using deterministic geographic farthest-point sampling,QUALIFIED
+39,USC00410639,BEEVILLE 5 NE,28.4575,-97.7061,77.7,93.32,92.99,96.39,92.99,94.23,105.91843621641102,QUALIFIED station selected using deterministic geographic farthest-point sampling,QUALIFIED
+40,USW00012907,LAREDO INTL AP,27.5333,-99.4667,150.6,99.95,99.84,99.62,99.62,99.8,105.63855798471543,QUALIFIED station selected using deterministic geographic farthest-point sampling,QUALIFIED
+41,USC00411048,BRENHAM,30.1592,-96.3972,95.4,92.06,92.06,90.53,90.53,91.55,101.60657867669224,QUALIFIED station selected using deterministic geographic farthest-point sampling,QUALIFIED
+42,USC00415721,MCCOOK,26.565,-98.1236,67.1,82.21,80.79,84.29,80.79,82.43,100.72719697945222,QUALIFIED station selected using deterministic geographic farthest-point sampling,QUALIFIED
+43,USC00410225,AMISTAD DAM,29.4608,-101.0286,352.7,97.65,97.65,97.76,97.65,97.68,100.6858510089951,QUALIFIED station selected using deterministic geographic farthest-point sampling,QUALIFIED
+44,USW00012962,HONDO MUNI AP,29.36,-99.1742,281.0,99.29,99.34,98.96,98.96,99.2,100.34267764452146,QUALIFIED station selected using deterministic geographic farthest-point sampling,QUALIFIED
+45,USW00053965,GRAHAM MUNI AP,33.11,-98.5553,342.3,85.44,85.5,84.35,84.35,85.09,96.75632738514815,QUALIFIED station selected using deterministic geographic farthest-point sampling,QUALIFIED
+46,USC00412809,ELDORADO,30.8694,-100.5994,743.7,98.91,98.91,97.37,97.37,98.39,95.21324139771737,QUALIFIED station selected using deterministic geographic farthest-point sampling,QUALIFIED
+47,USC00418566,SPUR,33.4792,-100.8761,700.1,100.0,100.0,99.95,99.95,99.98,95.06233743811723,QUALIFIED station selected using deterministic geographic farthest-point sampling,QUALIFIED
+48,USW00053912,CORSICANA CAMPBELL FLD,32.0317,-96.3994,135.0,99.45,99.34,98.52,98.52,99.11,94.96323578977858,QUALIFIED station selected using deterministic geographic farthest-point sampling,QUALIFIED
+49,USW00003969,STEPHENVILLE CLARK FLD,32.2153,-98.1775,402.6,99.89,100.0,97.65,97.65,99.18,94.55931292555037,QUALIFIED station selected using deterministic geographic farthest-point sampling,QUALIFIED
+50,USW00012923,GALVESTON SCHOLES FLD,29.2703,-94.8642,1.5,100.0,100.0,100.0,100.0,100.0,92.78457101097983,QUALIFIED station selected using deterministic geographic farthest-point sampling,QUALIFIED
